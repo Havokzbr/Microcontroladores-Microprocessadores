@@ -1,7 +1,4 @@
-# Aula 5
-Exercício da Aula 5 de Microprocessadores e Microcontroladores do curso de Engenharia de Computação da universidade, Centro Universitário das Américas - FAM
- 
- # Aula 5 - Microprocessadores e Microcontroladores
+# Aula 5 - Microprocessadores e Microcontroladores
 
 ## Oque é MIPS?
 
