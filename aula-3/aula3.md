@@ -50,7 +50,7 @@ Para que o microprocessador possa ser programado, diga quais são os componentes
 ## Questões de programação
 
 1. Escreva o código de funcionamento do circuito.
-![imagem](imgs\image5998.png)
+![imagem](aula-3/imgs/image5998.png)
 
 ```c
 int led = 12;
@@ -66,7 +66,7 @@ void loop() {
 }
 ```
 2. Escreva o código de funcionamento do circuito.
-![imagem](imgs\image5999.png)
+![imagem](aula-3/imgs/image5999.png)
 
 ```c
 int ledred = 11;
@@ -93,7 +93,7 @@ void loop() {
 }
 ```
 3. Escreva o código de funcionamento do circuito.
-![imagem](imgs\image6000.png)
+![imagem](aula-3/imgs/image6000.png)
 
 Sequencial de LEDS:
 
